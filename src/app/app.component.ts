@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 
 export class AppComponent {
-  name = 'Adam';
+  name = 'Initial Commit';
 }
